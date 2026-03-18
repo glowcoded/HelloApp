@@ -39,6 +39,8 @@
     "Application.uc2_HelloApp.executor": "Run",
     "Application.uc3_HelloApp.executor": "Run",
     "Application.uc4_HelloApp.executor": "Run",
+    "Application.uc5.executor": "Run",
+    "Application.uc5_HelloApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
