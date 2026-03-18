@@ -37,6 +37,7 @@
   "keyToString": {
     "Application.HelloWorlduc1.executor": "Run",
     "Application.uc2_HelloApp.executor": "Run",
+    "Application.uc3_HelloApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +58,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.uc3_HelloApp">
     <configuration name="uc2_HelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uc2_HelloApp" />
       <module name="HelloApp" />
@@ -66,8 +67,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="uc3_HelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc3_HelloApp" />
+      <module name="HelloApp" />
+      <option name="PROGRAM_PARAMETERS" value="Pavithra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uc3_HelloApp" />
         <item itemvalue="Application.uc2_HelloApp" />
       </list>
     </recent_temporary>
