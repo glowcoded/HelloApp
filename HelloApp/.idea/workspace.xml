@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ea1db97-b7bf-4ea1-831e-32e5b0b1f781" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/uc6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uc7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK5_6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK5_6/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uc2_HelloApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc2_HelloApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uc5_HelloApp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +67,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "uc5",
+    "git-widget-placeholder": "uc6",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -130,7 +126,7 @@
       <workItem from="1774023192779" duration="41000" />
       <workItem from="1774258847400" duration="827000" />
       <workItem from="1774862331475" duration="1188000" />
-      <workItem from="1775459089783" duration="2096000" />
+      <workItem from="1775459089783" duration="2507000" />
     </task>
     <servers />
   </component>
